@@ -9,11 +9,8 @@ Roteiro de Viagens é uma aplicação full stack mobile construída em react nat
 É possível solicitar um roteiro de passeios para qualquer local do mundo informando na tela principal o local da viagem e a quantidade de dias.
 O retorno da pesquisa será um roteiro de passeios para a região desejada, a temperatura ambiente na região no dia da pesquisa e um mapa do local para fazer consultas.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout Mobile
-![Web 1](https://github.com/RASx7/assets/blob/main/Roteiro01.PNG)(https://github.com/RASx7/assets/blob/main/Roteiro02.PNG)
+![Mobile 1](https://github.com/RASx7/assets/blob/main/Roteiro01.PNG)![Mobile 2](https://github.com/RASx7/assets/blob/main/Roteiro02.PNG)
 
 # Tecnologias utilizadas
 ## Back end
