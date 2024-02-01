@@ -12,13 +12,8 @@ O retorno da pesquisa será um roteiro de passeios para a região desejada, a te
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Layout Mobile
+![Web 1](https://github.com/RASx7/assets/blob/main/Roteiro01.PNG)(https://github.com/RASx7/assets/blob/main/Roteiro02.PNG)
 
 # Tecnologias utilizadas
 ## Back end
