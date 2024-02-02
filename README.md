@@ -20,9 +20,9 @@ O retorno da pesquisa será um roteiro de passeios para a região desejada, a te
 # Como executar o projeto
 
 Pré-requisitos: 
-Android Studio e VSCode
 
-Chaves secretas das APIs do Openai, OpenWeather e Google maps
+- Android Studio e VSCode
+- Chaves secretas das APIs do Openai, OpenWeather e Google maps
 
 
 ```bash
