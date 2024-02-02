@@ -22,6 +22,7 @@ O retorno da pesquisa será um roteiro de passeios para a região desejada, a te
 Pré-requisitos: 
 Android Studio
 VSCode
+Chaves secretas das APIs do Openai, OpenWeather e Google maps
 
 
 ```bash
@@ -37,10 +38,10 @@ npm start
 ```
 
 Projeto concluído e modificado a partir da aula assistida em:
-https://www.youtube.com/watch?v=shG_y39KBcs
-(Sujeito programador)
+https://www.youtube.com/watch?v=shG_y39KBcs - 
+Sujeito programador
 
-Obs.: Foram incluidos novos componentes na UI e as APIs do Google maps e da OpenWeather
+Obs.: Foram incluidos novos componentes na UI, e as APIs do Google maps e OpenWeather.
 
 # Autor
 
