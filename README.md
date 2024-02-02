@@ -39,7 +39,8 @@ npm start
 Projeto concluído e modificado a partir da aula assistida em:
 https://www.youtube.com/watch?v=shG_y39KBcs
 (Sujeito programador)
-Obs.: foram incluidos componentes na UI e as APIs do Google maps e da OpenWeather
+
+Obs.: Foram incluidos novos componentes na UI e as APIs do Google maps e da OpenWeather
 
 # Autor
 
