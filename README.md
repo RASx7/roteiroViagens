@@ -1,5 +1,5 @@
 # Roteiro de Viagens
-App em react native e IA que cria um roteiro de passeios.
+App em React Native e IA que cria um roteiro de passeios.
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
@@ -23,6 +23,7 @@ Pré-requisitos:
 Android Studio
 VSCode
 
+
 ```bash
 # clonar repositório
 git clone https://github.com/RASx7/roteiroViagens.git
@@ -32,6 +33,13 @@ npm install
 
 # executar o projeto
 npm start
+
+```
+
+Projeto concluído e modificado a partir da aula assistida em:
+https://www.youtube.com/watch?v=shG_y39KBcs
+(Sujeito programador)
+Obs.: foram incluidos componentes na UI e as APIs do Google maps e da OpenWeather
 
 # Autor
 
