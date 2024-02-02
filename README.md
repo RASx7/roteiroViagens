@@ -23,36 +23,19 @@ O retorno da pesquisa será um roteiro de passeios para a região desejada, a te
   
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: 
+Android Studio
+VSCode
 
 ```bash
 # clonar repositório
 git clone https://github.com/RASx7/roteiroViagens.git
 
-# entrar na pasta do projeto back end
-cd backend
+# Instalar as dependências - entrar na pasta do projeto e executar
+npm install
 
 # executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/RASx7/roteiroViagens.git
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
+npm start
 
 # Autor
 
