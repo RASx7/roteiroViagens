@@ -37,11 +37,11 @@ npm start
 
 ```
 
-Projeto concluído e modificado a partir da aula assistida em:
+Obs.: 
+- Projeto concluído e modificado a partir da aula assistida em:
 https://www.youtube.com/watch?v=shG_y39KBcs - 
 Sujeito programador
-
-Obs.: Foram incluidos novos componentes na UI, e as APIs do Google maps e OpenWeather.
+- Foram incluidos novos componentes na UI, e as APIs do Google maps e OpenWeather.
 
 # Autor
 
