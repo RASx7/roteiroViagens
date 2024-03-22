@@ -46,8 +46,10 @@ Sujeito programador
 # Contato:
 
 Renato Sampaio
+<br/>
 Estudante de Análise e Desenvolvimento de Sistemas
 
 E-mail: sampaio.ras@hotmail.com
+<br/>
 https://www.linkedin.com/in/renato-alves-sampaio/
 
