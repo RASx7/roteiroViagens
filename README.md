@@ -5,6 +5,7 @@ App em React Native e IA que cria um roteiro de passeios.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 <br/>
+
 # Sobre o projeto
 
 Roteiro de Viagens é uma aplicação full stack mobile construída em react native/expo conectadas com APIs de IA, maps e previsão do tempo.
