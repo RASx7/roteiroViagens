@@ -1,8 +1,10 @@
-# Projeto Roteiro de Viagens
+# Projeto Roteiro de Viagens 👋
+<br/>
 App em React Native e IA que cria um roteiro de passeios.
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
+<br/>
 # Sobre o projeto
 
 Roteiro de Viagens é uma aplicação full stack mobile construída em react native/expo conectadas com APIs de IA, maps e previsão do tempo.
@@ -21,7 +23,7 @@ O retorno da pesquisa será um roteiro de passeios para a região desejada, a te
 
 Pré-requisitos: 
 
-- Android Studio e VSCode
+- Android Studio/Celular e VSCode
 - Chaves secretas das APIs do Openai, OpenWeather e Google maps
 
 
@@ -49,6 +51,7 @@ Renato Sampaio
 <br/>
 Estudante de Análise e Desenvolvimento de Sistemas
 
+<br/>
 E-mail: sampaio.ras@hotmail.com
 <br/>
 https://www.linkedin.com/in/renato-alves-sampaio/
